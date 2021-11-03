@@ -1,0 +1,29 @@
+html{
+    font-family: "karla";
+    background-color: rgb(34, 34, 80);
+    color: white;
+}
+
+img {
+    width: 250px;
+    height: 500px;
+}
+
+.images {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+.text{
+    flex: 1;
+}
+
+.text h1{
+font-size: 90px;    
+}
+
+.text p {
+    font-size: 20px;
+}

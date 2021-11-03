@@ -1,0 +1,75 @@
+html {
+font-family: "karla";
+background-color: rgb(58, 58, 231);
+}
+
+
+.header h4 {
+    font-weight: lighter;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.header h1 {
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 30px;
+}
+.cards h1 {
+    color:rgb(255, 187, 0);
+    font-size: 20px;
+}
+
+.cards h3 {
+    color:rgb(58, 58, 231);
+    font-size: 30px;
+}
+
+.card1 {
+ background-color: white;
+ padding: 30px;
+ border-radius: 5px;
+}
+
+.card2 {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+   }
+.card2 .tag {
+    display: flex;
+    justify-content: center;
+    padding: 5px 10px 5px 10px;
+    padding-bottom: 5px;
+    background-color: rgb(255, 238, 182);
+    color: rgb(58, 58, 231);
+    font-weight: bolder;
+}
+
+.card2 button {
+    display: flex;
+    justify-content: center;
+    padding: 8px 12px 8px 12px; 
+    background-color: rgb(58, 58, 231);
+    color: white;
+    text-decoration: underline;
+    
+}
+
+.card3 {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+#sun {
+    
+}

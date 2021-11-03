@@ -1,0 +1,31 @@
+html{
+    font-family: "karla";
+    background-color: rgb(236, 226, 206);
+}
+
+label {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    padding: 10 30 10 30;
+    font-family: "karla";
+    background-color: black;
+    color: white;
+}
+
+.tags {
+    display: flex;
+    gap:40px;
+    justify-content: center;
+}
